@@ -1,4 +1,4 @@
-var map = L.map('map').setView([37.69268, -122.44240612746077], 12);
+var map = L.map('map').setView([37.692, -122.4424], 12);
 
   // load a tile layer
  L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.{ext}', {
